@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Sistema desarrollado en Java utilizando Programación Orientada a Objetos (POO).
+Sistema desarrollado en Java utilizando Programación Orientada a Objetos (POO)
 
 El sistema permite:
 
