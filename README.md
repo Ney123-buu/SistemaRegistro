@@ -21,10 +21,10 @@ El sistema permite:
 Clase principal del sistema.
 
 Funciones:
-- registrar entrada,
-- registrar salida,
-- mostrar registros,
-- guardar datos.
+- registrar entrada
+- registrar salida
+- mostrar registros
+- guardar datos
 
 ---
 
@@ -33,11 +33,11 @@ Funciones:
 Clase que representa al docente.
 
 Atributos:
-- nombre,
-- apellido,
-- cédula,
-- facultad,
-- carrera.
+- nombre
+- apellido
+- cédula
+- facultad
+- carrera
 
 ---
 
@@ -46,18 +46,18 @@ Atributos:
 Clase encargada del registro de asistencia.
 
 Funciones:
-- hora de llegada,
-- hora de salida,
-- cálculo de horas trabajadas.
+- hora de llegada
+- hora de salida
+- cálculo de horas trabajadas
 
 ---
 
 ## Fecha.java
 
 Clase utilizada para almacenar:
-- día,
-- mes,
-- año.
+- día
+- mes
+- año
 
 ---
 
@@ -67,16 +67,16 @@ Clase utilizada para almacenar:
 
 El usuario ingresa:
 
-- nombre,
-- apellido,
-- cédula,
-- facultad,
-- carrera.
+- nombre
+- apellido
+- cédula
+- facultad
+- carrera
 
 El sistema genera automáticamente:
-- fecha,
-- hora,
-- código fecha-hora.
+- fecha
+- hora
+- código fecha-hora
 
 Ejemplo:
 
@@ -91,9 +91,9 @@ Ejemplo:
 El usuario ingresa la cédula.
 
 El sistema:
-- busca el registro,
-- registra la hora de salida,
-- calcula horas trabajadas.
+- busca el registro
+- registra la hora de salida
+- calcula horas trabajadas
 
 ---
 
@@ -106,11 +106,11 @@ registros.txt
 ```
 
 donde se almacenan:
-- datos del docente,
-- fecha,
-- entrada,
-- salida,
-- horas trabajadas.
+- datos del docente
+- fecha
+- entrada
+- salida
+- horas trabajadas
 
 ---
 
